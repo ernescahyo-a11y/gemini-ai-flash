@@ -1,0 +1,14 @@
+# Environment file
+.env
+
+# Uploaded files
+uploads/
+
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+
+# VSCode settings (optional)
+.vscode/
